@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/nhatthuyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhat-thuyen" height="30" width="40" /></a>
-  <a href="www.facebook.com/neyuhtnh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="publ.terry" height="30"     width="40" /></a>
+  <a href="https://www.facebook.com/neyuhtnh/?locale=vi_VN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="publ.terry" height="30"     width="40" /></a>
 </p>
 
