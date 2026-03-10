@@ -1,4 +1,4 @@
-## Hi, I am ThomasPham04👋
+## Hi, I am Thomas Pham👋
 
 <!--
 **ThomasPham04/ThomasPham04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
