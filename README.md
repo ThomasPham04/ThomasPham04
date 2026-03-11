@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">I'm excited to connect with you! As a third-year Computer Engineering student at HCMUT-VNU, I have hands-on experience in hardware design, embedded systems, and programming. I’m passionate about designing innovative circuits, exploring new technologies, and solving real-world challenges through technology. My approach to computer engineering is driven by a keen attention to detail and a deep commitment to creating efficient, impactful solutions that enhance daily life. This inspires me to contribute to projects that drive meaningful technological progress for society.</h3>
+<h3 align="left">I'm excited to connect with you! As a final-year Computer Engineering student at HCMUT transitioning into AI Engineering , I have hands-on experience in Machine Learning, Natural Language Processing (NLP), and data-driven programming. I’m passionate about building predictive models, exploring advanced language algorithms, and solving real-world challenges through AI. My approach to AI development is driven by a keen attention to detail and a deep commitment to creating efficient, impactful software solutions that enhance daily life. This inspires me to contribute to collaborative projects that drive meaningful technological progress for society.</h3>
 
 - 📫 How to reach me: **thuyenpham1304@gmail.com*
 
